@@ -1,0 +1,17 @@
+Version-20240704-1-XP
+========================
+First commit
+- Source code release AOIApi function
+
+
+Version-20240711-1-XP
+========================
+- Source code header change: bool AOIApi(string) -> string AOIApi(string)
+- Source code bug fix: http add "multipart/from-data" header
+- Local Simulator release
+
+
+Version-20240718-1-XP
+========================
+- Source code add GetVersion() function
+- Source code bug fix: Correct image file size inconsistency by converting to 24-bit and fix XMEMORY issue
